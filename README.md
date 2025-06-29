@@ -11,7 +11,6 @@ Welcome to the Movies website! This web application allows users to Discover the
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
 - [API Integration](#api-integration)
 - [Pages](#pages)
 
